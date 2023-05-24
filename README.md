@@ -4,7 +4,16 @@
 
 It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
-Live Demo:  https://yash-gadre.github.io/Simple-Weather-App/
+<html>
+<body>
+
+<h1>HTML Links</h1>
+
+<p><a href="https://sivram.tech/Simple-Weather-App/">Click here</a></p>
+
+</body>
+</html>
+
 
 ## Show some :heart: and :star: the repo if you like the design.
 
