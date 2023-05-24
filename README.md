@@ -9,7 +9,7 @@ It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
 <h1>HTML Links</h1>
 
-<p><a href="https://sivram.tech/Simple-Weather-App/">Click here</a></p>
+<p><a href="https://sivram.tech/Simple-Weather-App/">For Live Demo please click here </a></p>
 
 </body>
 </html>
